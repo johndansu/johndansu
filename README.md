@@ -5,9 +5,9 @@ Software engineer who builds useful things:
 - A job-hunter that scrapes fresh listings
 - DocFlow — generates PRDs, designs & user stories
 - Nice frontend dashboards when needed
-- “Whink” — my totally serious private repo (it's a joke) 😅
+- I “have private repos”… or maybe not.😉🤔
 
-Currently learning DevOps… slowly, carefully, and with plenty of “why is this not working?” moments.
+Currently learning DevOps — slowly, joyfully, and with plenty of “why is this not working?” moments.
 
 I like automation, clean backends, and simple UIs that look good.
 
