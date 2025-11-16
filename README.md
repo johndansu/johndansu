@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dansu John
+#  Hi, I'm Dansu John
 
 **Software Engineer | STEM Facilitator | Network Enthusiast |Devops(still learning)** 
 
@@ -7,31 +7,31 @@ I enjoy creating tools that simplify processes, improve efficiency, and deliver 
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 **B.Sc. Computer Science**, Caleb University, Imota  
-- 📍 Nigeria  
-- ✉️ **Email:** dansu.jw@gmail.com   
-- 🔧 Formerly worked in **Networking** at *Dufil Prima Foods*    
-- 🛠️ Recently completed **NYSC**
+-  **B.Sc. Computer Science**, Caleb University, Imota  
+-  Nigeria  
+-  **Email:** dansu.jw@gmail.com   
+-  Formerly worked in **Networking** at *Dufil Prima Foods*    
+-  Recently completed **NYSC**
 
 ---
 
-## 🚀 What I Work On
+## What I Work On
 
-- **Weighing Automation System**  
+ **Weighing Automation System**  
   - Django backend  
   - RS232 serial communication  
   - Data visualization, analytics, and multi-format export (CSV, Excel, PDF)
 
-### 🔍 **Job Hunter**
+ **Job Hunter**
 A smart job-scraping engine that automatically fetches available job listings across the web.  
 - Node.js + TypeScript  
 - Supports multiple job sources  
 - Clean JSON output  
 - Can be integrated into dashboards or TG/WhatsApp bots(still working on that)
 
-### 📄 **DocFlow**
+ **DocFlow**
 A documentation generator that produces professional:  
 - PRDs (Product Requirement Documents)  
 - Design Prompts  
@@ -39,19 +39,19 @@ A documentation generator that produces professional:
 - Site Flow & Structural Docs  
 Built to speed up idea-to-execution workflows for product teams and founders.
 
-**Modern Dashboards & Web Apps**  
+ **Modern Dashboards & Web Apps**  
   - Clean UI  
   - Professional data visualization  
   - Authentication systems
 
-### 😅 Private Repos (Whink)
+ **Private Repos (Whink)**
  - A collection of “top-secret” private repos.  
  - Totally serious, definitely world-changing, and absolutely **not** a joke.  
 *(Okay it’s a joke.)*
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages:**  
 Python, JavaScript, TypeScript, SQL  
@@ -64,7 +64,7 @@ Networking, Linux basics, IT support
 
 ---
 
-## 📊 Current Goals
+## Current Goals
 
 - Improve advanced backend engineering skills  
 - Build more production-ready tools  
@@ -73,7 +73,7 @@ Networking, Linux basics, IT support
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - **Email:** dansu.jw@gmail.com  
 - **GitHub:** *You are here 👇*  
