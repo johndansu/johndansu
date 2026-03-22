@@ -1,6 +1,6 @@
 # Hi, I'm Dansu John
 
-Software engineer who builds useful things:
+Software engineer who builds digital experiences
 
 I “have private repos”… or maybe not.😉🤔
 
